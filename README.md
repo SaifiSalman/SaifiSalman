@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Salman
-- 👀 Ask me about Android apps development.Intereseted in AWS.
+- 👀 Ask me about Android apps development.
 - 🌱 I’m currently learning AWS
 - 📫 How to reach me salman@khushibaby.org
 
